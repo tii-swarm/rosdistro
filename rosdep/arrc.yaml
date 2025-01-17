@@ -1,0 +1,5 @@
+ace:
+  debian: [libace-dev]
+  gentoo: [dev-libs/ace]
+  nixos: [ace]
+  ubuntu: [libace-dev]
