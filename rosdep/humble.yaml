@@ -1,0 +1,3 @@
+px4-msgs:
+  debian: [ros-humble-px4-msgs]
+  ubuntu: [ros-humble-px4-msgs]
